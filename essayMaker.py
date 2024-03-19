@@ -1,0 +1,11 @@
+name = input("what is ur name? ")
+age = input("what is ur age? ")
+location = input("where do u live? ")
+hobby = input("what do you do in your freetime? ")
+subject = input("favorite subject: ")
+sport = input("favorite sport: ")
+college = input("where do you want to study? ")
+family = input("how many siblings do you have? ")
+
+print("Essay: \n", "Hello! My name is ", name, ". I am ", age, " years old and I live in ", location, "I have ", family, " siblings.")
+print(" I love ", hobby, " in my free time and my favorite sport is ", sport, ". I want to study at ", college, ".")
