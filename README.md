@@ -1,2 +1,2 @@
 # python-scripts-coding
-My Python scripts for teaching students about Pythons classes and conditionals
+Python scripts I made for teaching students about Pythons classes and conditionals
