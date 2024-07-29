@@ -71,7 +71,6 @@ writer.penup()
 writer.goto(160, 160)
 writer.color('black')
 writer.write("Score:" , state['score'])
-writer.
 listen()
 onkey(lambda: change(10, 0), 'Right')
 onkey(lambda: change(-10, 0), 'Left')
